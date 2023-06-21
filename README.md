@@ -1,6 +1,6 @@
 # demo-repo
 
-#subtitle
+## subtitle
 
 This is the demo repository for Software Technologies May 2023 course Softuni
 
